@@ -1,0 +1,773 @@
+OBJECTID,Freeway,1km_radius,ROAD_GEOMETRY
+3401778,,N,T intersection
+3401779,,N,Cross intersection
+3401779,,N,Cross intersection
+3401846,,Y,T intersection
+3401857,1.0,Y,Cross intersection
+3401857,1.0,N,Cross intersection
+3401857,1.0,N,Cross intersection
+3401904,,N,Not at intersection
+3402067,,Y,Multiple intersection
+3402177,1.0,N,Not at intersection
+3402177,1.0,N,Not at intersection
+3402222,1.0,N,T intersection
+3402222,1.0,N,T intersection
+3402222,1.0,N,T intersection
+3402295,,Y,T intersection
+3402295,,N,T intersection
+3402320,1.0,N,Not at intersection
+3402320,1.0,N,Not at intersection
+3402425,,N,Cross intersection
+3402696,1.0,N,Not at intersection
+3402696,1.0,N,Not at intersection
+3403056,,N,Cross intersection
+3403056,,N,Cross intersection
+3403065,,Y,Not at intersection
+3403222,,N,T intersection
+3403222,,N,T intersection
+3403522,1.0,Y,Not at intersection
+3403522,1.0,N,Not at intersection
+3403522,1.0,N,Not at intersection
+3403534,,N,Not at intersection
+3403654,,N,T intersection
+3404279,1.0,N,Not at intersection
+3404279,1.0,N,Not at intersection
+3404279,1.0,N,Not at intersection
+3404494,,Y,Not at intersection
+3404494,,N,Not at intersection
+3404568,,Y,T intersection
+3404619,,N,Not at intersection
+3404739,,N,T intersection
+3404927,,Y,T intersection
+3404968,,N,Cross intersection
+3405124,,N,Not at intersection
+3405481,,N,T intersection
+3405606,1.0,Y,Cross intersection
+3405606,1.0,N,Cross intersection
+3405606,1.0,N,Cross intersection
+3406064,1.0,N,T intersection
+3406064,1.0,N,T intersection
+3406156,,N,T intersection
+3406531,,N,Not at intersection
+3406740,,N,Not at intersection
+3406740,,N,Not at intersection
+3406762,,N,T intersection
+3406861,1.0,N,T intersection
+3406861,1.0,N,T intersection
+3406861,1.0,N,T intersection
+3406912,1.0,N,Not at intersection
+3406912,1.0,N,Not at intersection
+3406912,1.0,N,Not at intersection
+3406916,,Y,Cross intersection
+3406916,,N,Cross intersection
+3407124,,N,Not at intersection
+3407480,,N,Not at intersection
+3407480,,N,Not at intersection
+3407705,1.0,Y,Not at intersection
+3407705,1.0,N,Not at intersection
+3407705,1.0,N,Not at intersection
+3407713,,N,Not at intersection
+3407756,,N,T intersection
+3407907,,Y,Cross intersection
+3408289,,Y,Cross intersection
+3408569,1.0,N,Not at intersection
+3408569,1.0,N,Not at intersection
+3408769,1.0,N,Not at intersection
+3408769,1.0,N,Not at intersection
+3408841,,N,T intersection
+3408974,,N,T intersection
+3408974,,N,T intersection
+3409231,1.0,N,T intersection
+3409231,1.0,N,T intersection
+3409295,,N,Cross intersection
+3409295,,N,Cross intersection
+3409328,3.0,Y,Cross intersection
+3409328,3.0,N,Cross intersection
+3409328,3.0,N,Cross intersection
+3409621,,N,Not at intersection
+3409698,,Y,Cross intersection
+3409698,,N,Cross intersection
+3409813,,N,Not at intersection
+3409864,,N,Not at intersection
+3409904,1.0,Y,T intersection
+3409904,1.0,N,T intersection
+3409904,1.0,N,T intersection
+3410040,,N,T intersection
+3410040,,N,T intersection
+3410234,1.0,Y,Not at intersection
+3410234,1.0,N,Not at intersection
+3410234,1.0,N,Not at intersection
+3410428,,N,T intersection
+3411787,,Y,Not at intersection
+3411787,,N,Not at intersection
+3411867,1.0,N,Cross intersection
+3411867,1.0,N,Cross intersection
+3411867,1.0,N,Cross intersection
+3411976,,Y,Not at intersection
+3412180,,N,Cross intersection
+3412504,1.0,Y,T intersection
+3412504,1.0,N,T intersection
+3412504,1.0,N,T intersection
+3412577,,N,Not at intersection
+3412577,,N,Not at intersection
+3412691,1.0,N,Cross intersection
+3412691,1.0,N,Cross intersection
+3413094,,Y,T intersection
+3413094,,N,T intersection
+3413105,1.0,N,Not at intersection
+3413105,1.0,N,Not at intersection
+3413105,1.0,N,Not at intersection
+3413437,,N,Not at intersection
+3413516,,Y,Not at intersection
+3413516,,Y,Not at intersection
+3414055,1.0,Y,Not at intersection
+3414055,1.0,N,Not at intersection
+3414417,1.0,Y,Cross intersection
+3414417,1.0,N,Cross intersection
+3414692,,N,T intersection
+3414692,,N,T intersection
+3414693,,N,T intersection
+3414857,,N,Not at intersection
+3415022,1.0,N,Not at intersection
+3415022,1.0,N,Not at intersection
+3415022,1.0,N,Not at intersection
+3415159,,Y,Not at intersection
+3415159,,N,Not at intersection
+3415191,,N,Not at intersection
+3415418,,N,Not at intersection
+3415439,1.0,N,T intersection
+3415439,1.0,N,T intersection
+3415439,1.0,N,T intersection
+3415519,1.0,N,Not at intersection
+3415519,1.0,N,Not at intersection
+3415604,,N,Not at intersection
+3415604,,N,Not at intersection
+3415652,,N,Not at intersection
+3415795,,N,Not at intersection
+3415888,,N,T intersection
+3416052,,N,Not at intersection
+3416176,,N,Not at intersection
+3416313,1.0,N,Not at intersection
+3416313,1.0,N,Not at intersection
+3417075,1.0,Y,Not at intersection
+3417075,1.0,N,Not at intersection
+3417080,,Y,Not at intersection
+3417080,,N,Not at intersection
+3417193,1.0,N,T intersection
+3417193,1.0,N,T intersection
+3417193,1.0,N,T intersection
+3417246,,Y,Not at intersection
+3417350,,Y,T intersection
+3417350,,N,T intersection
+3417594,,Y,T intersection
+3417803,,N,Cross intersection
+3417803,,N,Cross intersection
+3417841,,N,Not at intersection
+3417969,1.0,Y,Cross intersection
+3417969,1.0,N,Cross intersection
+3418144,,N,Not at intersection
+3418341,,N,Not at intersection
+3418376,,Y,Not at intersection
+3418900,1.0,N,Not at intersection
+3418900,1.0,N,Not at intersection
+3419259,,N,Not at intersection
+3419372,1.0,Y,Not at intersection
+3419372,1.0,N,Not at intersection
+3419468,1.0,Y,T intersection
+3419468,1.0,N,T intersection
+3419468,1.0,N,T intersection
+3419547,1.0,Y,T intersection
+3419547,1.0,Y,T intersection
+3419547,1.0,N,T intersection
+3419669,,Y,T intersection
+3419805,,N,Cross intersection
+3419805,,N,Cross intersection
+3419820,1.0,N,Not at intersection
+3419820,1.0,N,Not at intersection
+3419820,1.0,N,Not at intersection
+3419931,1.0,N,Not at intersection
+3419931,1.0,N,Not at intersection
+3419931,1.0,N,Not at intersection
+3420013,,Y,Not at intersection
+3420374,1.0,N,T intersection
+3420374,1.0,N,T intersection
+3420374,1.0,N,T intersection
+3420470,,N,Cross intersection
+3420470,,N,Cross intersection
+3420663,,N,Not at intersection
+3420663,,N,Not at intersection
+3420695,,N,Not at intersection
+3420695,,N,Not at intersection
+3421133,1.0,N,Not at intersection
+3421133,1.0,N,Not at intersection
+3421360,1.0,N,Not at intersection
+3421360,1.0,N,Not at intersection
+3421398,,N,Not at intersection
+3421398,,N,Not at intersection
+3421574,,N,Cross intersection
+3421654,,Y,T intersection
+3421772,,N,Not at intersection
+3421772,,N,Not at intersection
+3421859,,N,Not at intersection
+3422093,,N,Cross intersection
+3422093,,N,Cross intersection
+3422146,,N,Not at intersection
+3422146,,N,Not at intersection
+3422164,,N,Not at intersection
+3422164,,N,Not at intersection
+3422429,1.0,Y,Not at intersection
+3422429,1.0,N,Not at intersection
+3422429,1.0,N,Not at intersection
+3422520,1.0,Y,T intersection
+3422520,1.0,N,T intersection
+3422541,1.0,N,Not at intersection
+3422541,1.0,N,Not at intersection
+3423443,,N,T intersection
+3423488,,Y,T intersection
+3423488,,N,T intersection
+3423651,,N,Cross intersection
+3423682,1.0,Y,Not at intersection
+3423682,1.0,N,Not at intersection
+3423694,1.0,Y,Cross intersection
+3423694,1.0,N,Cross intersection
+3423694,1.0,N,Cross intersection
+3423947,,N,Not at intersection
+3423947,,N,Not at intersection
+3423988,1.0,N,Not at intersection
+3423988,1.0,N,Not at intersection
+3423988,1.0,N,Not at intersection
+3424019,1.0,Y,Cross intersection
+3424019,1.0,N,Cross intersection
+3424410,,N,Not at intersection
+3424410,,N,Not at intersection
+3424463,,N,Not at intersection
+3424492,,N,T intersection
+3424499,,N,Not at intersection
+3424499,,N,Not at intersection
+3424613,,Y,Cross intersection
+3424613,,N,Cross intersection
+3424981,,Y,Not at intersection
+3425008,,N,Not at intersection
+3425142,,Y,T intersection
+3425142,,N,T intersection
+3425440,1.0,N,Not at intersection
+3425440,1.0,N,Not at intersection
+3425440,1.0,N,Not at intersection
+3425560,,N,Not at intersection
+3425727,,N,Cross intersection
+3425727,,N,Cross intersection
+3425756,1.0,N,Not at intersection
+3425756,1.0,N,Not at intersection
+3425756,1.0,N,Not at intersection
+3425871,,N,Not at intersection
+3425871,,N,Not at intersection
+3426269,,N,Not at intersection
+3426269,,N,Not at intersection
+3426504,,N,T intersection
+3426504,,N,T intersection
+3426509,1.0,Y,Not at intersection
+3426509,1.0,N,Not at intersection
+3426717,,N,T intersection
+3426717,,N,T intersection
+3426931,1.0,Y,Cross intersection
+3426931,1.0,N,Cross intersection
+3426931,1.0,N,Cross intersection
+3426968,,N,Not at intersection
+3427151,,N,Cross intersection
+3427316,,N,Not at intersection
+3427455,,N,Not at intersection
+3427455,,N,Not at intersection
+3427554,,Y,Not at intersection
+3427554,,N,Not at intersection
+3427848,,N,T intersection
+3428445,1.0,N,Not at intersection
+3428445,1.0,N,Not at intersection
+3429063,1.0,N,Not at intersection
+3429063,1.0,N,Not at intersection
+3429371,,Y,Not at intersection
+3429371,,N,Not at intersection
+3429514,1.0,Y,Cross intersection
+3429514,1.0,N,Cross intersection
+3429514,1.0,N,Cross intersection
+3429667,,N,T intersection
+3429782,,Y,Not at intersection
+3429782,,N,Not at intersection
+3430291,,N,Not at intersection
+3430360,1.0,N,T intersection
+3430360,1.0,N,T intersection
+3430360,1.0,N,T intersection
+3430618,,N,Not at intersection
+3430760,,N,Multiple intersection
+3430772,1.0,Y,Cross intersection
+3430772,1.0,N,Cross intersection
+3430772,1.0,N,Cross intersection
+3431078,1.0,Y,Cross intersection
+3431078,1.0,N,Cross intersection
+3431119,,N,Cross intersection
+3431590,1.0,N,Not at intersection
+3431590,1.0,N,Not at intersection
+3431670,,Y,Not at intersection
+3431780,1.0,N,Not at intersection
+3431780,1.0,N,Not at intersection
+3431780,1.0,N,Not at intersection
+3431984,1.0,Y,Not at intersection
+3431984,1.0,N,Not at intersection
+3431984,1.0,N,Not at intersection
+3432199,,N,Not at intersection
+3432264,,N,T intersection
+3432264,,N,T intersection
+3432304,,Y,Not at intersection
+3432455,,N,T intersection
+3432455,,N,T intersection
+3432468,,N,Not at intersection
+3432468,,N,Not at intersection
+3432483,,N,Cross intersection
+3432646,,N,Cross intersection
+3432827,1.0,Y,Cross intersection
+3432827,1.0,N,Cross intersection
+3432945,,Y,Not at intersection
+3432945,,N,Not at intersection
+3433005,,N,Not at intersection
+3433049,,Y,Cross intersection
+3433062,1.0,N,Not at intersection
+3433062,1.0,N,Not at intersection
+3433158,1.0,Y,T intersection
+3433158,1.0,N,T intersection
+3433158,1.0,N,T intersection
+3433163,,N,Not at intersection
+3433163,,N,Not at intersection
+3433497,,N,Not at intersection
+3433751,,N,Not at intersection
+3433751,,N,Not at intersection
+3434093,,Y,Cross intersection
+3434245,1.0,Y,T intersection
+3434245,1.0,N,T intersection
+3434245,1.0,N,T intersection
+3434369,,Y,Not at intersection
+3434369,,N,Not at intersection
+3434883,,N,Cross intersection
+3434883,,N,Cross intersection
+3435018,,Y,T intersection
+3435018,,N,T intersection
+3435164,,N,Not at intersection
+3435208,,N,Not at intersection
+3435208,,N,Not at intersection
+3435348,1.0,Y,Not at intersection
+3435348,1.0,N,Not at intersection
+3435348,1.0,N,Not at intersection
+3435472,1.0,N,T intersection
+3435472,1.0,N,T intersection
+3435472,1.0,N,T intersection
+3435593,,N,Not at intersection
+3435650,,N,Not at intersection
+3435758,1.0,Y,T intersection
+3435758,1.0,N,T intersection
+3436250,,Y,Not at intersection
+3436250,,N,Not at intersection
+3436411,,Y,Not at intersection
+3436644,,Y,T intersection
+3436651,,N,T intersection
+3436651,,N,T intersection
+3436779,,N,T intersection
+3436856,1.0,N,Not at intersection
+3436856,1.0,N,Not at intersection
+3437602,1.0,N,Not at intersection
+3437602,1.0,N,Not at intersection
+3437602,1.0,N,Not at intersection
+3437775,,Y,Not at intersection
+3437775,,N,Not at intersection
+3437998,1.0,N,Not at intersection
+3437998,1.0,N,Not at intersection
+3438032,1.0,N,Not at intersection
+3438032,1.0,N,Not at intersection
+3438101,1.0,Y,Not at intersection
+3438101,1.0,N,Not at intersection
+3438101,1.0,N,Not at intersection
+3438297,1.0,Y,Multiple intersection
+3438297,1.0,N,Multiple intersection
+3438297,1.0,N,Multiple intersection
+3438299,,N,Not at intersection
+3438369,,N,Not at intersection
+3438408,1.0,N,Not at intersection
+3438408,1.0,N,Not at intersection
+3438408,1.0,N,Not at intersection
+3438485,,N,Multiple intersection
+3438549,,N,Not at intersection
+3438559,,N,Cross intersection
+3438676,,N,Not at intersection
+3438716,,N,Not at intersection
+3438939,1.0,N,Not at intersection
+3438939,1.0,N,Not at intersection
+3439039,1.0,Y,Not at intersection
+3439039,1.0,Y,Not at intersection
+3439039,1.0,N,Not at intersection
+3439145,,N,Cross intersection
+3439145,,N,Cross intersection
+3439369,,N,T intersection
+3439785,,N,Cross intersection
+3440059,,Y,Not at intersection
+3440370,,N,T intersection
+3440370,,N,T intersection
+3440414,1.0,N,Not at intersection
+3440414,1.0,N,Not at intersection
+3440414,1.0,N,Not at intersection
+3440668,1.0,N,Not at intersection
+3440668,1.0,N,Not at intersection
+3440668,1.0,N,Not at intersection
+3440806,1.0,Y,Not at intersection
+3440806,1.0,N,Not at intersection
+3441011,1.0,N,Not at intersection
+3441011,1.0,N,Not at intersection
+3441027,,N,Not at intersection
+3441027,,N,Not at intersection
+3441116,1.0,Y,Not at intersection
+3441116,1.0,N,Not at intersection
+3441227,,N,T intersection
+3441401,,N,T intersection
+3441574,1.0,N,Cross intersection
+3441574,1.0,N,Cross intersection
+3441574,1.0,N,Cross intersection
+3441707,1.0,N,Not at intersection
+3441707,1.0,N,Not at intersection
+3441883,1.0,N,Not at intersection
+3441883,1.0,N,Not at intersection
+3441883,1.0,N,Not at intersection
+3441976,,N,Not at intersection
+3441976,,N,Not at intersection
+3442054,,Y,Not at intersection
+3442054,,N,Not at intersection
+3442099,,N,T intersection
+3442099,,N,T intersection
+3442111,1.0,Y,Not at intersection
+3442111,1.0,N,Not at intersection
+3442111,1.0,N,Not at intersection
+3442244,,N,T intersection
+3442449,,N,Not at intersection
+3442449,,N,Not at intersection
+3442576,,N,Not at intersection
+3442624,1.0,Y,Not at intersection
+3442624,1.0,Y,Not at intersection
+3442802,,N,Not at intersection
+3442802,,N,Not at intersection
+3442803,,Y,Not at intersection
+3442852,1.0,N,T intersection
+3442852,1.0,N,T intersection
+3443046,,Y,T intersection
+3443049,,N,Not at intersection
+3443049,,N,Not at intersection
+3443344,,Y,Not at intersection
+3443344,,N,Not at intersection
+3443460,,N,Cross intersection
+3443579,,Y,Dead end
+3443679,,N,T intersection
+3443829,,N,Not at intersection
+3444027,,N,Not at intersection
+3444027,,N,Not at intersection
+3444348,,Y,T intersection
+3444348,,N,T intersection
+3444358,,N,Not at intersection
+3444404,,N,T intersection
+3444619,1.0,N,T intersection
+3444619,1.0,N,T intersection
+3444627,,Y,Cross intersection
+3444627,,N,Cross intersection
+3444696,,Y,T intersection
+3444696,,N,T intersection
+3444754,,N,T intersection
+3444754,,N,T intersection
+3444778,1.0,Y,Not at intersection
+3444778,1.0,N,Not at intersection
+3444778,1.0,N,Not at intersection
+3444893,,N,Not at intersection
+3445005,,N,Cross intersection
+3445351,1.0,N,T intersection
+3445351,1.0,N,T intersection
+3445351,1.0,N,T intersection
+3445746,,Y,Not at intersection
+3445746,,N,Not at intersection
+3445764,,Y,Cross intersection
+3445822,,Y,Not at intersection
+3445846,1.0,Y,Multiple intersection
+3445846,1.0,N,Multiple intersection
+3445846,1.0,N,Multiple intersection
+3445911,,Y,Not at intersection
+3445911,,Y,Not at intersection
+3446127,1.0,N,Not at intersection
+3446127,1.0,N,Not at intersection
+3446252,,N,Cross intersection
+3446334,1.0,N,T intersection
+3446334,1.0,N,T intersection
+3446460,,N,T intersection
+3446460,,N,T intersection
+3446718,1.0,Y,T intersection
+3446718,1.0,N,T intersection
+3446718,1.0,N,T intersection
+3447047,,Y,Cross intersection
+3447047,,N,Cross intersection
+3447085,,Y,T intersection
+3447140,,N,Not at intersection
+3447190,1.0,Y,T intersection
+3447190,1.0,N,T intersection
+3447190,1.0,N,T intersection
+3447195,,N,Not at intersection
+3447206,,Y,T intersection
+3447466,,N,T intersection
+3447468,1.0,Y,Not at intersection
+3447468,1.0,N,Not at intersection
+3447523,1.0,Y,Cross intersection
+3447523,1.0,N,Cross intersection
+3447523,1.0,N,Cross intersection
+3447643,1.0,N,Not at intersection
+3447643,1.0,N,Not at intersection
+3447678,1.0,N,Not at intersection
+3447678,1.0,N,Not at intersection
+3447732,,N,Not at intersection
+3447732,,N,Not at intersection
+3447973,,Y,Not at intersection
+3448005,1.0,N,Not at intersection
+3448005,1.0,N,Not at intersection
+3448202,1.0,N,Not at intersection
+3448202,1.0,N,Not at intersection
+3448202,1.0,N,Not at intersection
+3448258,,N,Not at intersection
+3448445,1.0,N,Not at intersection
+3448445,1.0,N,Not at intersection
+3448445,1.0,N,Not at intersection
+3448678,1.0,N,Not at intersection
+3448678,1.0,N,Not at intersection
+3448678,1.0,N,Not at intersection
+3448720,,N,Not at intersection
+3449040,,N,Not at intersection
+3449099,,N,T intersection
+3449161,,N,Not at intersection
+3449161,,N,Not at intersection
+3449298,,N,Not at intersection
+3449316,,N,Not at intersection
+3449316,,N,Not at intersection
+3449332,,Y,Cross intersection
+3449351,,N,Not at intersection
+3449586,,N,Multiple intersection
+3449673,1.0,Y,Not at intersection
+3449673,1.0,N,Not at intersection
+3449728,,N,Not at intersection
+3449728,,N,Not at intersection
+3449742,,Y,Not at intersection
+3449958,1.0,N,T intersection
+3449958,1.0,N,T intersection
+3449958,1.0,N,T intersection
+3450094,,N,T intersection
+3450263,,N,Not at intersection
+3450263,,N,Not at intersection
+3450365,,Y,Cross intersection
+3450365,,N,Cross intersection
+3450373,,N,T intersection
+3450373,,N,T intersection
+3450595,,N,Cross intersection
+3450595,,N,Cross intersection
+3450682,,N,Cross intersection
+3450694,,N,Cross intersection
+3450782,1.0,N,Not at intersection
+3450782,1.0,N,Not at intersection
+3450895,,N,Not at intersection
+3451186,,N,T intersection
+3451653,1.0,N,Not at intersection
+3451815,,Y,Multiple intersection
+3452074,,N,Not at intersection
+3452074,,N,Not at intersection
+3452322,,Y,Not at intersection
+3452322,,N,Not at intersection
+3452395,,N,Cross intersection
+3452579,,N,Cross intersection
+3452579,,N,Cross intersection
+3452694,,Y,Not at intersection
+3452946,,N,Not at intersection
+3453026,1.0,Y,Not at intersection
+3453026,1.0,N,Not at intersection
+3453026,1.0,N,Not at intersection
+3453176,,N,Not at intersection
+3453438,,N,Not at intersection
+3453840,1.0,N,T intersection
+3453840,1.0,N,T intersection
+3453997,1.0,N,Not at intersection
+3453997,1.0,N,Not at intersection
+3453997,1.0,N,Not at intersection
+3454090,1.0,N,T intersection
+3454090,1.0,N,T intersection
+3454386,,Y,Cross intersection
+3454386,,N,Cross intersection
+3454388,,N,T intersection
+3454394,1.0,Y,Not at intersection
+3454394,1.0,N,Not at intersection
+3454521,,Y,Not at intersection
+3454521,,N,Not at intersection
+3454581,,N,T intersection
+3454832,,N,Not at intersection
+3455189,,N,Not at intersection
+3455235,,N,Not at intersection
+3455396,,N,Not at intersection
+3455396,,N,Not at intersection
+3455448,1.0,N,Not at intersection
+3455466,,N,Not at intersection
+3455774,,N,Not at intersection
+3456128,1.0,N,T intersection
+3456128,1.0,N,T intersection
+3456128,1.0,N,T intersection
+3456312,1.0,N,Not at intersection
+3456312,1.0,N,Not at intersection
+3456366,,N,Cross intersection
+3456366,,N,Cross intersection
+3456719,,Y,T intersection
+3456719,,N,T intersection
+3456738,1.0,Y,T intersection
+3456738,1.0,N,T intersection
+3456761,,N,Not at intersection
+3456810,,N,Not at intersection
+3456935,,N,Cross intersection
+3457158,1.0,Y,T intersection
+3457158,1.0,N,T intersection
+3457158,1.0,N,T intersection
+3457350,,N,Not at intersection
+3457350,,N,Not at intersection
+3457506,1.0,N,Not at intersection
+3457506,1.0,N,Not at intersection
+3457624,,Y,Not at intersection
+3457787,1.0,Y,T intersection
+3457787,1.0,N,T intersection
+3457787,1.0,N,T intersection
+3457827,,N,Cross intersection
+3457874,1.0,Y,T intersection
+3457874,1.0,N,T intersection
+3457874,1.0,N,T intersection
+3457982,1.0,N,Not at intersection
+3457982,1.0,N,Not at intersection
+3457982,1.0,N,Not at intersection
+3457984,,N,Not at intersection
+3458123,1.0,N,Not at intersection
+3458123,1.0,N,Not at intersection
+3458123,1.0,N,Not at intersection
+3458608,,Y,Not at intersection
+3458608,,N,Not at intersection
+3458615,1.0,Y,Not at intersection
+3458615,1.0,Y,Not at intersection
+3458615,1.0,N,Not at intersection
+3458753,,N,Cross intersection
+3458778,,N,Not at intersection
+3458778,,N,Not at intersection
+3458812,1.0,Y,Not at intersection
+3458812,1.0,N,Not at intersection
+3458821,1.0,Y,Not at intersection
+3458821,1.0,N,Not at intersection
+3458821,1.0,N,Not at intersection
+3458870,1.0,N,T intersection
+3458870,1.0,N,T intersection
+3458870,1.0,N,T intersection
+3458899,1.0,N,Cross intersection
+3458899,1.0,N,Cross intersection
+3458899,1.0,N,Cross intersection
+3458919,,Y,Cross intersection
+3458919,,N,Cross intersection
+3459168,,Y,Not at intersection
+3459197,,N,Not at intersection
+3459225,,Y,Not at intersection
+3459225,,N,Not at intersection
+3459545,,N,Not at intersection
+3459545,,N,Not at intersection
+3459665,,N,Cross intersection
+3459833,,Y,Not at intersection
+3459833,,N,Not at intersection
+3460048,1.0,N,Cross intersection
+3460048,1.0,N,Cross intersection
+3460051,,Y,Cross intersection
+3460051,,N,Cross intersection
+3460210,,Y,Not at intersection
+3460210,,N,Not at intersection
+3460380,1.0,N,T intersection
+3460380,1.0,N,T intersection
+3460380,1.0,N,T intersection
+3460424,,N,T intersection
+3460424,,N,T intersection
+3460561,,N,Not at intersection
+3460581,,N,Not at intersection
+3460731,1.0,N,Not at intersection
+3460731,1.0,N,Not at intersection
+3460777,1.0,N,Not at intersection
+3460777,1.0,N,Not at intersection
+3460777,1.0,N,Not at intersection
+3460977,,N,Cross intersection
+3461005,,Y,Not at intersection
+3461005,,Y,Not at intersection
+3461012,1.0,N,T intersection
+3461012,1.0,N,T intersection
+3461012,1.0,N,T intersection
+3461395,1.0,Y,Not at intersection
+3461395,1.0,N,Not at intersection
+3461395,1.0,N,Not at intersection
+3461436,,Y,T intersection
+3461555,,Y,T intersection
+3461555,,N,T intersection
+3461873,1.0,Y,Cross intersection
+3461873,1.0,N,Cross intersection
+3461873,1.0,N,Cross intersection
+3461958,,Y,T intersection
+3461958,,N,T intersection
+3461979,1.0,Y,Not at intersection
+3461979,1.0,N,Not at intersection
+3461979,1.0,N,Not at intersection
+3462199,1.0,Y,Not at intersection
+3462199,1.0,N,Not at intersection
+3462199,1.0,N,Not at intersection
+3462298,1.0,N,Not at intersection
+3462298,1.0,N,Not at intersection
+3462298,1.0,N,Not at intersection
+3462504,,N,Not at intersection
+3462768,,N,Not at intersection
+3462807,,N,Not at intersection
+3462807,,N,Not at intersection
+3462946,1.0,Y,Cross intersection
+3462946,1.0,N,Cross intersection
+3462946,1.0,N,Cross intersection
+3463060,1.0,N,T intersection
+3463060,1.0,N,T intersection
+3463098,,N,Not at intersection
+3463098,,N,Not at intersection
+3463141,,N,Not at intersection
+3463141,,N,Not at intersection
+3463359,,N,T intersection
+3463542,1.0,N,Not at intersection
+3463542,1.0,N,Not at intersection
+3463749,,N,Cross intersection
+3463749,,N,Cross intersection
+3464126,,N,Not at intersection
+3464126,,N,Not at intersection
+3464194,,N,Cross intersection
+3464320,1.0,Y,Cross intersection
+3464320,1.0,N,Cross intersection
+3464320,1.0,N,Cross intersection
+3464502,,Y,Multiple intersection
+3465340,,Y,Cross intersection
+3465340,,N,Cross intersection
+3465382,1.0,N,Not at intersection
+3465382,1.0,N,Not at intersection
+3465382,1.0,N,Not at intersection
+3465542,,N,Not at intersection
+3465773,,Y,Not at intersection
+3465773,,N,Not at intersection
+3465874,,N,Not at intersection
+3465911,,N,Not at intersection
+3465969,,Y,Cross intersection
+3465969,,N,Cross intersection
+3466051,,N,Not at intersection
+3466100,1.0,Y,Not at intersection
+3466100,1.0,N,Not at intersection
+3466385,,N,Not at intersection
+3466385,,N,Not at intersection
+3466426,,N,Not at intersection
+3466537,,N,Not at intersection
+3466537,,N,Not at intersection
+3466762,1.0,N,Not at intersection
+3467040,,Y,Not at intersection
+3467040,,Y,Not at intersection
+3467188,,N,Not at intersection
+3467208,1.0,Y,T intersection
+3467208,1.0,N,T intersection
+3467208,1.0,N,T intersection

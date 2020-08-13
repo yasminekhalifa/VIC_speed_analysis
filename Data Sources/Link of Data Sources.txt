@@ -1,0 +1,21 @@
+https://www.vicroads.vic.gov.au/safety-and-road-rules/safety-statistics/crash-statistics
+
+https://www.localgovernment.vic.gov.au/council-funding-and-grants/victoria-grants-commission/consultation-and-operations
+
+https://www.kaggle.com/gaurav896/victoria-state-accident-dataset?select=Crash+Statistics+Victoria.csv 
+
+https://beta.abs.gov.au/statistics
+
+https://www.camerassavelives.vic.gov.au/
+
+<<<<<<< HEAD
+https://cloud.google.com/maps-platform/
+
+https://blog.andatech.com.au/drink-driving-statistics-australia-in-numbers-2017
+
+https://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/2033.0.55.001~2016~Main%20Features~IRSD~19#:~:text=The%20Index%20of%20Relative%20Socio-economic%20Disadvantage%20%28IRSD%29%20is,general.%20For%20example%2C%20an%20area%20could%20have%20
+=======
+https://www.speedcameralocations.com.au/
+
+https://www.matthewproctor.com/australian_postcodes
+>>>>>>> df67757d6f4effe4aebd2897a56bf0f7932a84d3

@@ -1,0 +1,400 @@
+location,lat,lng,geolocation,geolocation_area,camera_type,postcode,locality,region
+At The Intersection Of Albert Street And Gower Street Preston (Northbound) - Lane 1 2 3,-37.742778,145.022448,-37.743;145.022,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Alexandra Avenue And Church Street South Yarra - Lane 1 2 3,-37.834699,144.996395,-37.835;144.996,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Alexandra Parade And Brunswick Street Fitzroy - Lane 1 2 3,-37.79355,144.97967,-37.794;144.980,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Alexandra Parade And Brunswick Street Fitzroy - Lane 4 5 6,-37.793416,144.97967,-37.793;144.980,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Alexandra Parade And George Street Fitzroy North - Lane 1 2 3,-37.793479999999995,144.982548,-37.793;144.983,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Alexandra Parade And Smith Street Fitzroy North - Lane 1 2 3 4,-37.793760999999996,144.984797,-37.794;144.985,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Alma Road And Chapel Street St Kilda - Lane 1 2 3,-37.86141,144.991458,-37.861;144.991,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Ashley Street And Churchill Avenue Maidstone - Lane 1 2,-37.786302,144.864578,-37.786;144.865,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Balaclava Road And Kooyong Road Caulfield North - Wet Film,-37.871894,145.018126,-37.872;145.018,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Ballarat Road And Ashley Street Maidstone - Lane 1 2 3 4,-37.781683,144.865815,-37.782;144.866,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Ballarat Road And Churchill Avenue Maidstone - Lane 1 2 3,-37.783071,144.869271,-37.783;144.869,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Balwyn Road And Whitehorse Road Balwyn - Wet Film,-37.812938,145.081283,-37.813;145.081,-37.8;145.1,Wet film,3102.0,KEW EAST,R1
+At The Intersection Of Barkers Road And Glenferrie Road Hawthorn - Lane 1 2 3 4,-37.814817,145.037152,-37.815;145.037,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Barkly Street And Carlisle Street St Kilda - Lane 1 2 3,-37.866937,144.981334,-37.867;144.981,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Barry Road And King Street Dallas - Lane 1 2 3,-37.666109000000006,144.94272800000002,-37.666;144.943,-37.7;144.9,Intersection,3033.0,KEILOR EAST,R1
+At The Intersection Of Bay Street And St Kilda Street Brighton - Wet Film,-37.90392,144.98877199999998,-37.904;144.989,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Bayswater Road And Mountain Highway Bayswater - Wet Film,-37.838428,145.27123899999998,-37.838;145.271,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The Intersection Of Bell Street And Gilbert Road Preston -  Wet Film,-37.743613,144.98883500000002,-37.744;144.989,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Bell Street And Gilbert Road Preston -  Wet Film,-37.743613,144.98883500000002,-37.744;144.989,-37.7;145.0,Wet film,3058.0,BATMAN,R1
+At The Intersection Of Bell Street And Plenty Road Preston - Lane 1 2 3,-37.745688,145.006417,-37.746;145.006,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Bell Street And Plenty Road Preston - Lane 4 5,-37.74559,145.006584,-37.746;145.007,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Bell Street And St Georges Road Preston - Lane 1 2 3 4,-37.744566,144.997106,-37.745;144.997,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Blackburn Road And Burwood Highway Burwood East - Lane 1 2 3 4,-37.852090999999994,145.152089,-37.852;145.152,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Blackburn Road And High Street Road Glen Waverley - Wet Film,-37.871924,145.14854499999998,-37.872;145.149,-37.9;145.1,Wet film,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Blackburn Road And Monash Freeway Mount Waverley - Wet Film,-37.895386,145.14399,-37.895;145.144,-37.9;145.1,Wet film,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Blackshaws Road And Millers Road Altona North (Eastbound) - Lane 1 2,-37.831101000000004,144.847806,-37.831;144.848,-37.8;144.8,Intersection,3020.0,ALBION,R1
+At The Intersection Of Blackshaws Road And Millers Road Altona North (Westbound) - Lane 1 2,-37.831323,144.84866200000002,-37.831;144.849,-37.8;144.8,Intersection,3020.0,ALBION,R1
+At The Intersection Of Boronia Road And Wantirna Road Wantirna - Lane 1 2 3,-37.847827,145.227678,-37.848;145.228,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Boronia Road And Wantirna Road Wantirna - Lane 4 5,-37.847654999999996,145.22757099999998,-37.848;145.228,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Brighton Road And Glen Eira Road Ripponlea - Lane 1 2 3,-37.876128,144.992425,-37.876;144.992,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Brighton Road And Glen Eira Road Ripponlea - Lane 4 56,-37.876158000000004,144.992293,-37.876;144.992,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Burke Road And Old Burke Road Kew East - Lane 1 2,-37.787609,145.064863,-37.788;145.065,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Burwood Highway And Selman Avenue Ferntree Gully - Lane 1 2 3 4,-37.8886,145.295188,-37.889;145.295,-37.9;145.3,Intersection,3154.0,THE BASIN,R1
+At The Intersection Of Burwood Highway And Springvale Road Vermont South - Lane 1 2 3,-37.855169000000004,145.16978899999998,-37.855;145.170,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Burwood Highway And Springvale Road Vermont South - Lane 4 5 6,-37.854968,145.169865,-37.855;145.170,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Burwood Highway And Stud Road Wantirna South - Lane 1 2 3,-37.869273,145.235656,-37.869;145.236,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Burwood Highway And Stud Road Wantirna South - Lane 4 5,-37.869057,145.235681,-37.869;145.236,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Burwwod Highway and Blackburn Road Burwood East,-37.852768,145.152171,-37.853;145.152,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Canterbury Road And Bayswater Road Bayswater North - Lane 1 2 3,-37.832271,145.268765,-37.832;145.269,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The Intersection Of Canterbury Road And Bayswater Road Bayswater North - Lane 4 5,-37.832440999999996,145.268854,-37.832;145.269,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The Intersection Of Canterbury Road And Colchester Road Kilsyth South - Lane 1 2 3 4,-37.821574,145.3047,-37.822;145.305,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The Intersection Of Canterbury Road And Mitcham Road Vermont - Lane 1 2 3,-37.836007,145.195167,-37.836;145.195,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Canterbury Road And Mitcham Road Vermont - Lane 4 5,-37.836071999999994,145.195189,-37.836;145.195,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Canterbury Road And Station Street Box Hill (Eastbound) - Lane 1 2 3,-37.828608,145.121475,-37.829;145.121,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Canterbury Road And Warrigal Road Surrey Hills - Wet Film,-37.826132,145.09956699999998,-37.826;145.100,-37.8;145.1,Wet film,3102.0,KEW EAST,R1
+At The Intersection Of Cemetery Road West And Royal Parade Parkville - Lane 1 2,-37.790225,144.959236,-37.790;144.959,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Cemetery Road West And Royal Parade Parkville - Lane 3 4,-37.789846000000004,144.959168,-37.790;144.959,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Centre Road And Buckland Street Clayton - Lane 1 2,-37.930035,145.131537,-37.930;145.132,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Centre Road And Springs Road Clayton South - Lane 1 2,-37.927526,145.11024,-37.928;145.110,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Centre Road And Warrigal Road Bentleigh East - Lane 1 2 3,-37.923845,145.082,-37.924;145.082,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Chandler Highway And Eastern Freeway Kew - Wet Film,-37.790759,145.027799,-37.791;145.028,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Charles Street And Cotham Road Kew - Wet Film,-37.807664,145.035292,-37.808;145.035,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Church Street And Shannon Avenue Geelong West - Wet Film,-38.130705,144.338446,-38.131;144.338,-38.1;144.3,Intersection,3213.0,BATESFORD,R2
+At The Intersection Of City Road And Montague Street South Melbourne - Lane 1 2 3 4,-37.833006,144.95164,-37.833;144.952,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Dandenong Road And Chapel Street St Kilda - Lane 1 2 3,-37.857982,144.99262099999999,-37.858;144.993,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Dandenong Road And Chapel Street St Kilda - Lane 4 5 6,-37.857813,144.992697,-37.858;144.993,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Dandenong Road And Clayton Road Oakleigh East - Lane 1 2 3 4,-37.911064,145.121871,-37.911;145.122,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Dandenong Road And Kooyong Road Armadale - Lane 1 2 3,-37.86247,145.019344,-37.862;145.019,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Dandenong Road And Kooyong Road Armadale - Lane 4 5,-37.86253,145.019308,-37.863;145.019,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Dandenong Road And Orrong Road Caulfield North - Lane 1 2,-37.860535999999996,145.010954,-37.861;145.011,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Dandenong Road And Orrong Road Caulfield North - Lane 3 4 5,-37.86039,145.010901,-37.860;145.011,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Dandenong Road And Warrigal Road Malvern East - Lane 1 2 3,-37.892694,145.087853,-37.893;145.088,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Dandenong Road And Warrigal Road Malvern East - Lane 4 5 6,-37.89294,145.087797,-37.893;145.088,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Dandenong-Frankston Road And Skye Road Frankston - Lane 1 2 3,-38.128269,145.13438200000002,-38.128;145.134,-38.1;145.1,Intersection,3197.0,CARRUM,R1
+At The Intersection Of Denmark Street And Barkers Road Kew - Lane 1 2 3,-37.813369,145.028029,-37.813;145.028,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Denmark Street And High Street South Kew - Lane 1 2 3 4,-37.807961,145.028796,-37.808;145.029,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Doncaster Road And Gardenia Road Balwyn North - Lane 1 2 3,-37.789904,145.09954399999998,-37.790;145.100,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The intersection Of Dorset Road And Canterbury Road Bayswater North - Lane 1 2,-37.825802,145.287694,-37.826;145.288,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The intersection Of Dorset Road And Canterbury Road Bayswater North - Lane 3 4 5,-37.825808,145.28761,-37.826;145.288,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The Intersection Of Duke Street And Ballarat Road Braybrook - Lane 1 2 3 4,-37.778869,144.84724599999998,-37.779;144.847,-37.8;144.8,Intersection,3020.0,ALBION,R1
+At The Intersection Of Elgar Road And Arnold Street Box Hill - Lane 1 2,-37.813684,145.115701,-37.814;145.116,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Elizabeth Street And La Trobe Street Melbourne - Lane 1 2,-37.809981,144.96133999999998,-37.810;144.961,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Elizabeth Street And Victoria Street Melbourne - Lane 1 2 3,-37.805909,144.959465,-37.806;144.959,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Epsom Road And Smithfield Road Kensington - Lane 1 2 3,-37.788832,144.922754,-37.789;144.923,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Exhibition Street And Victoria Street Melbourne - Lane 1 2 3,-37.807574,144.96863100000002,-37.808;144.969,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Ferntree Gully Road And Stephensons Road Mount Waverley - Wet Film,-37.899072,145.124181,-37.899;145.124,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Fifteenth Street And San Mateo Avenue Mildura - Lane 1 2 3 4,-34.210599,142.14123600000002,-34.211;142.141,-34.2;142.1,Intersection,3501.0,HATTAH,R3
+At The Intersection Of Fitzroy Street And Lakeside Drive St Kilda - Lane 1 2 3,-37.858055,144.97991000000002,-37.858;144.980,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Fitzroy Street And Princes Street St Kilda - Lane 1 2 3,-37.857946999999996,144.980702,-37.858;144.981,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Flemington Road And Gatehouse Street Parkville - Lane 1 2 3,-37.796267,144.950959,-37.796;144.951,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Flinders Street And William Street Melbourne - Lane 1 2 3,-37.819628,144.96032,-37.820;144.960,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Foster Street And McCrae Street Dandenong - Lane 1 2 3,-37.988504999999996,145.218436,-37.989;145.218,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Francis Street And Wembley Avenue Yarraville - Lane 1 2,-37.819388000000004,144.874247,-37.819;144.874,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Francis Street And Wembley Avenue Yarraville (Eastbound) - Lane 1 2 3,-37.819284,144.873928,-37.819;144.874,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Frankston Freeway Off Ramp And Dandenong-Frankston Road Seaford - Lane 1 2 3,-38.128065,145.133934,-38.128;145.134,-38.1;145.1,Intersection,3197.0,CARRUM,R1
+At The Intersection Of Gaffney Street And Sydney Road Coburg - Lane 1 2 3,-37.734109000000004,144.965822,-37.734;144.966,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Geelong Road And Droop Street Footscray - Lane 1 2 3 4,-37.796538,144.896563,-37.797;144.897,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Geelong Street And Geelong Road Kingsville - Lane 1 2 3,-37.804378,144.883022,-37.804;144.883,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Gilbert Road And Bell Street Preston - Lane 1 2,-37.743471,144.98935,-37.743;144.989,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Gilbert Road And Murray Road Preston - Wet Film,-37.736486,144.990367,-37.736;144.990,-37.7;145.0,Wet film,3058.0,BATMAN,R1
+At The Intersection Of Gladstone Road And Heatherton Road Dandenong North - Lane 1 2 3,-37.968601,145.205206,-37.969;145.205,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Glen Eira Road And Kooyong Road Caulfield - Lane 1 2 3,-37.879258,145.016717,-37.879;145.017,-37.9;145.0,Wet film,3143.0,ARMADALE,R1
+At The Intersection Of Glen Eira Road And Kooyong Road Caulfield - Wet Film,-37.879032,145.016048,-37.879;145.016,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Glen Iris Road And Toorak Road Camberwell - Lane 1 2 3,-37.84722,145.0686,-37.847;145.069,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Glenferrie Road And Burwood Road Hawthorn - Lane 1,-37.822907,145.03521999999998,-37.823;145.035,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Glenferrie Road And Wellington Street Kew - Wet Film,-37.810212,145.037579,-37.810;145.038,-37.8;145.0,Wet film,3000.0,MELBOURNE,R1
+At The Intersection Of Gordon Street And Barkly Street Footscray - Lane 1 2,-37.798819,144.888078,-37.799;144.888,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Greensborough Highway And Grimshaw Street Greensborough - Lane 1 2 3 4,-37.703012,145.08986299999998,-37.703;145.090,-37.7;145.1,Intersection,3082.0,MILL PARK,R1
+At The Intersection Of Greensborough Highway And Grimshaw Street Watsonia - Lane 1 2 3 4,-37.703352,145.089563,-37.703;145.090,-37.7;145.1,Intersection,3082.0,MILL PARK,R1
+At The Intersection Of Grimshaw Street And Macorna Street Watsonia North - Lane 1 2 3,-37.70241,145.08378000000002,-37.702;145.084,-37.7;145.1,Intersection,3082.0,MILL PARK,R1
+At The Intersection Of Hall Road And Dandenong-Frankston Road Carrum Downs - Lane 1 2 3,-38.099709000000004,145.17316,-38.100;145.173,-38.1;145.2,Intersection,3200.0,FRANKSTON NORTH,R1
+At The Intersection Of Hallam Road And Fordholm Road Hampton Park - Lane 1 2 34,-38.036134999999994,145.26717299999999,-38.036;145.267,-38.0;145.3,Intersection,3502.0,MILDURA,R3
+At The Intersection Of Harding Street And Sydney Road Coburg - Wet Film,-37.7451,144.966283,-37.745;144.966,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Harding Street And Sydney Road Coburg - Wet Film,-37.7451,144.966283,-37.745;144.966,-37.7;145.0,Wet film,3058.0,BATMAN,R1
+At The Intersection Of Harp Road And Burke Road Kew East - Lane 1 2 3,-37.800674,145.06222,-37.801;145.062,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Hawthorn Road And Inkerman Road Caulfield North - Lane 1,-37.869363,145.025451,-37.869;145.025,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Heatherton Road And Corrigan Road Noble Park - Lane 1 2 3,-37.964541,145.16895,-37.965;145.169,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Heatherton Road And Monash Freeway Doveton - Lane 1 2 3 4,-37.97263,145.237087,-37.973;145.237,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Heatherton Road And Monash Freeway Endeavour Hills - Lane 1 2 3,-37.972426,145.23779,-37.972;145.238,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Heidelberg Road And Station Street Fairfield - Wet Film,-37.783444,145.017814,-37.783;145.018,-37.8;145.0,Wet film,3000.0,MELBOURNE,R1
+At The Intersection Of High Street And Don Street Bendigo - Lane 1 2 3,-36.763647999999996,144.27018700000002,-36.764;144.270,-36.8;144.3,Intersection,3550.0,BENDIGO,R3
+At The Intersection Of High Street And Verene Avenue Templestowe Lower - Lane 1 2,-37.768144,145.11828799999998,-37.768;145.118,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of High Street Road And Huntingdale Road Mount Waverley - Lane 1 2 3,-37.868034,145.112086,-37.868;145.112,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of High Street Road And Stephensons Road Mount Waverley - Wet Film,-37.870184,145.130321,-37.870;145.130,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of High Street Road And Stud Road Wantirna South - Lane 1 2,-37.876951,145.232673,-37.877;145.233,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of High Street Road And Stud Road Wantirna South - Lane 3 4 5,-37.87688,145.23267099999998,-37.877;145.233,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Highbury Road And Huntingdale Road Mount Waverley - Lane 1 2,-37.855624,145.11436899999998,-37.856;145.114,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Hoddle Street And Johnston Street Collingwood - Lane 1 2 3,-37.800162,144.992759,-37.800;144.993,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Hoddle Street And Johnston Street Collingwood - Lane 4 5 6,-37.800102,144.992968,-37.800;144.993,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Hoddle Street And Victoria Parade East Melbourne - Lane 123,-37.810328000000005,144.99107,-37.810;144.991,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Hoddle Street And Victoria Parade East Melbourne - Lane 4 5,-37.810188000000004,144.991283,-37.810;144.991,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Hoddle Street And Victoria Street Abbotsford - Lane 1 2,-37.809418,144.991581,-37.809;144.992,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Hoddle Street And Victoria Street Abbotsford - Lane 3 4 5 6,-37.809327,144.99139399999999,-37.809;144.991,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Hoddle Street And Wellington Parade East Melbourne - Lane 1 2 3,-37.817739,144.98970500000001,-37.818;144.990,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Hoddle Street And Wellington Parade East Melbourne - Lane 4 5,-37.817807,144.989893,-37.818;144.990,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Hotham Street And Balaclava Road St Kilda East - Lane 1 2 3,-37.869248,144.999594,-37.869;145.000,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Hume Highway And Somerton Road Campbellfield - Lane 1 2 3,-37.643819,144.951086,-37.644;144.951,-37.6;145.0,Intersection,3076.0,EPPING,R1
+At The Intersection Of Hume Highway And Somerton Road Campbellfield - Lane 4 5,-37.643801,144.951376,-37.644;144.951,-37.6;145.0,Intersection,3076.0,EPPING,R1
+At The Intersection Of Johnston Street And Hoddle Street Collingwood - Lane 2 3,-37.799721000000005,144.992526,-37.800;144.993,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Johnston Street And Wellington Street Collingwood - Lane 1 2 3,-37.799167,144.986972,-37.799;144.987,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of King Street And Hawke Street West Melbourne Lane - 1 2 3 4,-37.8056,144.948812,-37.806;144.949,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of King Street And La Trobe Street West Melbourne Lane - 1 2 3 4,-37.812290000000004,144.953914,-37.812;144.954,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Kings Road And Melton Highway Taylors Lakes - Lane 1 2 3 4,-37.697781,144.780914,-37.698;144.781,-37.7;144.8,Intersection,3021.0,ALBANVALE,R1
+At The Intersection Of Kings Way And Park Street South Melbourne - Lane 1 2 3 4,-37.833003000000005,144.96763700000002,-37.833;144.968,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Kooyong Road And Malvern Road Armadale - Wet Film,-37.850684,145.021374,-37.851;145.021,-37.9;145.0,Wet film,3143.0,ARMADALE,R1
+At The Intersection Of Latrobe Street And Spencer Street West Melbourne - Lane 1 2,-37.813182,144.950975,-37.813;144.951,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Latrobe Terrace And Fyans Street South Geelong - Lane 1 2 3 4,-38.160266,144.350338,-38.160;144.350,-38.2;144.4,Intersection,3217.0,ARMSTRONG CREEK,R2
+At The Intersection Of Lightwood Road And Corrigan Road Noble Park - Lane 1 2,-37.96152,145.168969,-37.962;145.169,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Lincoln Causeway And Hume Highway Ramp Wodonga - Lane 1 2,-36.109963,146.893869,-36.110;146.894,-36.1;146.9,Intersection,3690.0,WEST WODONGA,R3
+At The Intersection Of Loddon Valley Highway And Calder Highway Ironbark - Lane 1 2 3,-36.755466999999996,144.26325400000002,-36.755;144.263,-36.8;144.3,Intersection,3550.0,BENDIGO,R3
+At The Intersection Of Lonsdale Street And Webster Street Dandenong - Lane 1 2 3 4,-37.992940999999995,145.216002,-37.993;145.216,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Macaulay Road And Stubbs Street Kensington - Lane 1 2,-37.794999,144.934995,-37.795;144.935,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Mahoneys Road And High Street Thomastown - Lane 1 2 3,-37.694658000000004,145.01095800000002,-37.695;145.011,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Mahoneys Road And High Street Thomastown - Lane 4 5,-37.694839,145.010888,-37.695;145.011,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Manningham Road And Macedon Road Templestowe Lower - Lane 1 2 3,-37.773379,145.111797,-37.773;145.112,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Maribyrnong Road And Mount Alexander Road Moonee Ponds - Lane 1 2 3,-37.772724,144.92658400000002,-37.773;144.927,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Maroondah Highway And Approximately 100 Metres West Of Hutchinson Street - Eastbound Lilydale - Lane 1 2,-37.756892,145.34678200000002,-37.757;145.347,-37.8;145.3,Freeway,3134.0,HEATHWOOD,R1
+At The Intersection Of Maroondah Highway And Approximately 100 Metres West Of Hutchinson Street - Westbound Lilydale - Lane 1 2,-37.757067,145.347462,-37.757;145.347,-37.8;145.3,Freeway,3134.0,HEATHWOOD,R1
+At The Intersection Of Maroondah Highway And Exeter Road Croydon North,-37.77094,145.294898,-37.771;145.295,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The Intersection Of Maroondah Highway And Mount Dandenong Road Ringwood - Lane 23,-37.810913,145.237827,-37.811;145.238,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Maroondah Highway And Mount Dandenong Road Ringwood - Lane 4 56,-37.810899,145.237704,-37.811;145.238,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Maroondah Highway And Ringwood Bypass Ringwood - Lane 1 2,-37.811240000000005,145.237147,-37.811;145.237,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Maroondah Highway And Ringwood Bypass Ringwood - Lane 3 4 5,-37.811227,145.237033,-37.811;145.237,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Maroondah Highway And Springvale Road Nunawading - Lane 1 2 3 4,-37.818627,145.1765,-37.819;145.177,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Maroondah Highway And Springvale Road Nunawading - Lane 5 6,-37.818452,145.176563,-37.818;145.177,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of McIvor Road And Reservoir Road Strathdale - Lane 1 2 3 4,-36.759605,144.317687,-36.760;144.318,-36.8;144.3,Intersection,3550.0,BENDIGO,R3
+At The Intersection Of Melville Road And Albion Street Brunswick - Wet Film,-37.758398,144.945021,-37.758;144.945,-37.8;144.9,Wet film,3003.0,WEST MELBOURNE,R1
+At The Intersection Of Middleborough Road And Eastern Freeway Box Hill North - Lane 1 2 3,-37.79896,145.14221899999998,-37.799;145.142,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Mont Albert Road And Union Road Surrey Hills - Lane 1 2,-37.82035,145.098015,-37.820;145.098,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Moorabool Street And Fyans Street South Geelong - Lane 1 2 3 4,-38.161799,144.354017,-38.162;144.354,-38.2;144.4,Intersection,3217.0,ARMSTRONG CREEK,R2
+At The Intersection Of Mountain Highway And Wantirna Road Wantirna - Lane 1 2 3,-37.849057,145.22696100000002,-37.849;145.227,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Mt Dandenong Road And Dorset Road Croydon - Lane 1 2 3 4,-37.799772999999995,145.290494,-37.800;145.290,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The Intersection Of Munro Street And Sydney Road Coburg - Lane 1 2 3,-37.744890999999996,144.965614,-37.745;144.966,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Munro Street And Sydney Road Coburg - Lane 1 2 3,-37.744890999999996,144.965614,-37.745;144.966,-37.7;145.0,Wet film,3058.0,BATMAN,R1
+At The Intersection Of Murray Road And Elizabeth Street Coburg - Lane 1 2 3,-37.735982,144.983031,-37.736;144.983,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Narre Warren North Road And Ernst Wanke Road Narre Warren - Lane 1 2 3,-37.996825,145.312603,-37.997;145.313,-38.0;145.3,Intersection,3502.0,MILDURA,R3
+At The Intersection Of Narre Warren North Road And Ernst Wanke Road Narre Warren North - Lane 1 2 3,-37.996549,145.312812,-37.997;145.313,-38.0;145.3,Intersection,3502.0,MILDURA,R3
+At The Intersection Of Nepean Highway And Bungower Road Mornington - Lane 1 2 3 4,-38.220081,145.05705,-38.220;145.057,-38.2;145.1,Intersection,3199.0,FRANKSTON,R1
+At The Intersection Of Nepean Highway And Centre Road Brighton East - Lane 1 2 3,-37.916069,145.01791,-37.916;145.018,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Nepean Highway And Centre Road Brighton East - Lane 4 5,-37.916058,145.018015,-37.916;145.018,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Nepean Highway And Davey Street Frankston - Lane 1 2 3,-38.145081,145.120366,-38.145;145.120,-38.1;145.1,Intersection,3197.0,CARRUM,R1
+At The Intersection Of Nepean Highway And Davey Street Frankston - Lane 4 5,-38.145,145.120202,-38.145;145.120,-38.1;145.1,Intersection,3197.0,CARRUM,R1
+At The Intersection Of Nepean Highway And Highett Road Highett - Lane 1 2 3 4,-37.949453000000005,145.046254,-37.949;145.046,-37.9;145.0,Wet film,3143.0,ARMADALE,R1
+At The Intersection Of Nepean Highway And Highett Road Highett - Lane 1 2 3 4,-37.949453000000005,145.046254,-37.949;145.046,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Nepean Highway And Highett Road Highett - Wet Film,-37.948752,145.04594699999998,-37.949;145.046,-37.9;145.0,Wet film,3143.0,ARMADALE,R1
+At The Intersection Of Nepean Highway And Highett Road Highett - Wet Film,-37.948752,145.04594699999998,-37.949;145.046,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Nepean Highway And Karen Street Highett - Lane 1 2,-37.957084,145.052023,-37.957;145.052,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Nepean Highway And Karen Street Highett - Lane 3 4 5,-37.957101,145.051702,-37.957;145.052,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Nepean Highway And Main Street Mornington - Lane 1 2 3 4,-38.229773,145.044513,-38.230;145.045,-38.2;145.0,Intersection,3931.0,MORNINGTON,R3
+At The Intersection Of Nepean Highway And Warrigal Road Mentone - Lane 1 2 3,-37.981618,145.070974,-37.982;145.071,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Nepean Highway And Warrigal Road Mentone - Lane 4 5,-37.981858,145.070948,-37.982;145.071,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Nicholson Street And Albert Street East Melbourne - Lane 1,-37.809409,144.972836,-37.809;144.973,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Nicholson Street And Elgin Street Carlton - Lane 1 2 3,-37.798285,144.97469099999998,-37.798;144.975,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Nicholson Street And Glenlyon Road Brunswick - Wet Film,-37.773246,144.979379,-37.773;144.979,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Nicholson Street And Princes Street Carlton - Lane 1 2 3,-37.793284,144.975528,-37.793;144.976,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Nicholson Street And Victoria Parade East Melbourne,-37.808205,144.973053,-37.808;144.973,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of North Road And Clayton Road Oakleigh East - Lane 1 2 3,-37.913608,145.121708,-37.914;145.122,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of North Road And Clayton Road Oakleigh East - Lane 4 5,-37.913677,145.121694,-37.914;145.122,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Ogilvie Avenue And High Street Echuca - Lane 1 2 3,-36.140387,144.750748,-36.140;144.751,-36.1;144.8,Intersection,3564.0,ECHUCA,R3
+At The Intersection Of Park Road And Charman Road Cheltenham - Lane 1 2,-37.965496,145.055936,-37.965;145.056,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Pascoe Vale Road And Peck Avenue Strathmore - Lane 1 2 3 4,-37.7301,144.923845,-37.730;144.924,-37.7;144.9,Intersection,3033.0,KEILOR EAST,R1
+At The Intersection Of Pascoe Vale Road And Reservoir Drive Coolaroo - Lane 1 2 3 4,-37.643371,144.929033,-37.643;144.929,-37.6;144.9,Intersection,3059.0,GREENVALE,R1
+At The Intersection Of Peel Street And Victoria Street West Melbourne - Lane 1 2 3,-37.806146999999996,144.955879,-37.806;144.956,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Plenty Road And Dunne Street Kingsbury - Lane 1 2 3 4,-37.716882,145.043199,-37.717;145.043,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Plenty Road And Kingsbury Drive Bundoora - Lane 1 2 3 4,-37.717037,145.042773,-37.717;145.043,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Princes Highway And Belgrave Road Malvern East - Lane 2 3,-37.884531,145.06733,-37.885;145.067,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Princes Highway And Belgrave Road Malvern East - Lane 4 5 6,-37.884599,145.067321,-37.885;145.067,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Princes Highway And Elonera Road Noble Park North - Lane 1 2 3 4,-37.961176,145.18823899999998,-37.961;145.188,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Princes Highway And Fitzgerald Road Hallam - Lane 1 2 3 4,-38.008582000000004,145.278118,-38.009;145.278,-38.0;145.3,Intersection,3502.0,MILDURA,R3
+At The Intersection Of Princes Highway And Gladstone Road Dandenong - Lane 1 2 3,-37.97486,145.203461,-37.975;145.203,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Princes Highway And Gladstone Road Dandenong - Lane 4 5,-37.974963,145.20328999999998,-37.975;145.203,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Princes Highway And Huntingdale Road Oakleigh East - Lane 1 2 3 4,-37.900496000000004,145.10496,-37.900;145.105,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Princes Highway And Pioneer Road Grovedale - Lane 1 2 3,-38.196740000000005,144.31887700000001,-38.197;144.319,-38.2;144.3,Intersection,3216.0,BELMONT,R2
+At The Intersection Of Princes Highway And South Gippsland Freeway Eumemmerring - Lane 1 2 3,-38.003522,145.25116200000002,-38.004;145.251,-38.0;145.3,Intersection,3502.0,MILDURA,R3
+At The Intersection Of Princes Highway And Sparks Road Norlane - Lane 1 2 3 4,-38.091612,144.35636399999999,-38.092;144.356,-38.1;144.4,Intersection,3214.0,CORIO,R2
+At The Intersection Of Princes Highway And Station Street Corio - Lane 1 2 3 4,-38.07537,144.36906299999998,-38.075;144.369,-38.1;144.4,Intersection,3214.0,CORIO,R2
+At The Intersection Of Princes Highway And Webb Street Narre Warren - Lane 1 2 3 4,-38.025473,145.30548000000002,-38.025;145.305,-38.0;145.3,Intersection,3502.0,MILDURA,R3
+At The Intersection Of Princes Street And Rathdowne Street Carlton - Lane 1 2 3 4,-37.792735,144.97177299999998,-37.793;144.972,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Prospect Hill Road And Burke Road Camberwell - Lane 1 2 3,-37.828272999999996,145.057757,-37.828;145.058,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Punt Road And Commercial Road Melbourne - Lane 1 2 3,-37.845926,144.984873,-37.846;144.985,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Punt Road And High Street Prahran - Lane 123,-37.8504,144.984324,-37.850;144.984,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Punt Road And Toorak Road South Yarra - Lane 1 2 3,-37.838603000000006,144.98636100000002,-37.839;144.986,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Raglan Parade And Mahoneys Road Warrnambool - Lane 1 2 3,-38.384938,142.53342800000001,-38.385;142.533,-38.4;142.5,Intersection,3280.0,DENNINGTON,R3
+At The Intersection Of Ringwood Street And Maroondah Highway Ringwood - Lane 1 2 3,-37.815397999999995,145.22746999999998,-37.815;145.227,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At the intersection of Rosanna Road and Banyule Road Northbound Heidelberg - Lane 1 2 3,-37.742903000000005,145.072439,-37.743;145.072,-37.7;145.1,Intersection,3082.0,MILL PARK,R1
+At the intersection of Rosanna Road and Banyule Road Southbound Heidelberg - Lane 1 2,-37.742740999999995,145.072595,-37.743;145.073,-37.7;145.1,Intersection,3082.0,MILL PARK,R1
+At the intersection of Rosanna Road and Darebin Street Northbound Heidelberg - Lane 1 2 3,-37.754734,145.06993400000002,-37.755;145.070,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At the intersection of Rosanna Road and Darebin Street Southbound Heidelberg - Lane 1 2 3,-37.754532,145.070033,-37.755;145.070,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Royal Parade And Cemetery Road West North Carlton - Lane 1 2,-37.789741,144.958935,-37.790;144.959,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Royal Parade And Gatehouse Street Parkville - Lane 1 2,-37.792813,144.958271,-37.793;144.958,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Royal Parade And Gatehouse Street Parkville - Lane 3,-37.792768,144.958301,-37.793;144.958,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Scoresby Road And Mountain Highway Bayswater - Lane 1 2 3 4,-37.838899,145.271043,-37.839;145.271,-37.8;145.3,Intersection,3134.0,HEATHWOOD,R1
+At The Intersection Of Settlement Road And Torquay Road Belmont - Lane 1 2 3 4,-38.18231,144.344653,-38.182;144.345,-38.2;144.3,Intersection,3216.0,BELMONT,R2
+At The Intersection Of Seymour Grove And Camberwell Road Camberwell - Lane 1 2 3,-37.836023,145.061711,-37.836;145.062,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Shannon Avenue And Aphrasia Street Newtown - Wet Film,-38.149893,144.334622,-38.150;144.335,-38.1;144.3,Wet film,3213.0,BATESFORD,R2
+At The Intersection Of Shannon Avenue And Noble Street Newtown - Lane 1 2 3,-38.152483000000004,144.334199,-38.152;144.334,-38.2;144.3,Intersection,3216.0,BELMONT,R2
+At The Intersection Of Somerville Road And Geelong Road Yarraville - Lane 1 2 3,-37.81127,144.870054,-37.811;144.870,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of South Gippsland Highway And Lynbrook Boulevard Lynbrook - Lane 1 2 3,-38.050795,145.25776299999998,-38.051;145.258,-38.1;145.3,Intersection,3977.0,BOTANIC RIDGE,R1
+At The Intersection Of South Gippsland Highway And Thompsons Road Cranbourne North - Lane 1 2,-38.081953999999996,145.27631499999998,-38.082;145.276,-38.1;145.3,Intersection,3977.0,BOTANIC RIDGE,R1
+At The Intersection Of South Gippsland Highway And Thompsons Road Cranbourne North - Lane 3 4 5,-38.081969,145.276432,-38.082;145.276,-38.1;145.3,Intersection,3977.0,BOTANIC RIDGE,R1
+At The Intersection Of Spencer Street And Dudley Street West Melbourne - Lane 1 2 3 4,-37.810287,144.950021,-37.810;144.950,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Springvale Road And Canterbury Road Forest Hill - Lane 1 2 3,-37.834561,145.172887,-37.835;145.173,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Springvale Road And Canterbury Road Forest Hill - Lane 4 5,-37.834543,145.1728,-37.835;145.173,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Springvale Road And High Street Road Glen Waverley - Lane 1 2 3,-37.873984,145.16707,-37.874;145.167,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Springvale Road And High Street Road Glen Waverley - Lane 4 5,-37.874065,145.166843,-37.874;145.167,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Springvale Road And Lower Dandenong Road Braeside - Lane 2 3,-37.991271000000005,145.14433799999998,-37.991;145.144,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Springvale Road And Lower Dandenong Road Braeside - Lane 4 5 6,-37.991269,145.14466299999998,-37.991;145.145,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Springvale Road And Wellington Road Mulgrave - Lane 1 2 3,-37.918977000000005,145.158426,-37.919;145.158,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Springvale Road And Wellington Road Mulgrave - Lane 4 5,-37.918981,145.158655,-37.919;145.159,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of St Georges Road And Normanby Avenue Thornbury - Lane 1 2 3,-37.759040999999996,144.99303,-37.759;144.993,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of St Georges Road And Normanby Avenue Thornbury - Wet Film,-37.758457,144.993579,-37.758;144.994,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of St Kilda Road And Fitzroy Street St Kilda - Lane 1 2 3 4,-37.857275,144.982584,-37.857;144.983,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of St Kilda Road And Fitzroy Street St Kilda - Lane 5 6 7,-37.857151,144.982798,-37.857;144.983,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of St Kilda Road And Union Street Melbourne - Lane 1 2,-37.852965000000005,144.981773,-37.853;144.982,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of St Kilda Road And Union Street Melbourne - Lane 3 4 5,-37.853019,144.981957,-37.853;144.982,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of St. Georges Road And Arthurton Road Northcote - Lane 1 2 3,-37.768137,144.991729,-37.768;144.992,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Station Street And Thames Street Box Hill - Lane 1 2,-37.813972,145.12463400000001,-37.814;145.125,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Stud Road And Ferntree Gully Road Scoresby - Lane 1 2 3,-37.899563,145.232903,-37.900;145.233,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Stud Road And Ferntree Gully Road Scoresby - Lane 4 5 6,-37.89947,145.233207,-37.899;145.233,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Stud Road And Heatherton Road Dandenong - Lane 1 2 3 4,-37.971354,145.223233,-37.971;145.223,-38.0;145.2,Intersection,3164.0,DANDENONG SOUTH,R1
+At The Intersection Of Stud Road And Wellington Road Rowville - Lane 1 2 3,-37.927537,145.233379,-37.928;145.233,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Stud Road And Wellington Road Rowville - Lane 4 5,-37.927506,145.233104,-37.928;145.233,-37.9;145.2,Intersection,3150.0,BRANDON PARK,R1
+At The Intersection Of Sturt Street And Gillies Street Lake Gardens - Lane 1 2 3,-37.555464,143.818595,-37.555;143.819,-37.6;143.8,Intersection,3350.0,LUCAS,R3
+At The Intersection Of Sussex Street And O'Hea Street Pascoe Vale South - Lane 1 2,-37.73622,144.94890700000002,-37.736;144.949,-37.7;144.9,Intersection,3033.0,KEILOR EAST,R1
+At The Intersection Of Sydney Road And Barry Road Campbellfield - Lane 1 2 3,-37.666953,144.95516899999998,-37.667;144.955,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Sydney Road And Barry Road Campbellfield - Lane 4 5,-37.666986,144.954899,-37.667;144.955,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Sydney Road And Mahoneys Road Campbellfield - Lane 1 2 3,-37.689339000000004,144.958281,-37.689;144.958,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Sydney Road And Mahoneys Road Campbellfield - Lane 4 567,-37.689327,144.958149,-37.689;144.958,-37.7;145.0,Intersection,3058.0,BATMAN,R1
+At The Intersection Of Terminal Drive And Centre Road Melbourne Airport - Lane 1 2 3 4,-37.673047,144.852225,-37.673;144.852,-37.7;144.9,Intersection,3033.0,KEILOR EAST,R1
+At The Intersection Of The Boulevard And Melbourne Road Norlane - Lane 1 2,-38.09874,144.354755,-38.099;144.355,-38.1;144.4,Intersection,3214.0,CORIO,R2
+At The Intersection Of Thomas Street And North Road Brighton East - Lane 1 2,-37.902498,145.02590700000002,-37.902;145.026,-37.9;145.0,Intersection,3143.0,ARMADALE,R1
+At The Intersection Of Thompson Road And Separation Street Bell Park - Lane 1 2 3,-38.110898999999996,144.343355,-38.111;144.343,-38.1;144.3,Intersection,3213.0,BATESFORD,R2
+At The Intersection Of Toorak Road And Burke Road Camberwell - Wet Film,-37.845652,145.05385,-37.846;145.054,-37.8;145.1,Wet film,3102.0,KEW EAST,R1
+At The Intersection Of Toorak Road And Glen Iris Road Camberwell - Lane 1 2 3,-37.847278,145.068401,-37.847;145.068,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Union Road And Mont Albert Road Surrey Hills - Lane 1 2,-37.820211,145.098451,-37.820;145.098,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Victoria Parade And Nicholson Street Carlton - Lane 1 2 3,-37.807669,144.97304499999998,-37.808;144.973,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Victoria Parade And Nicholson Street Carlton - Lane 4 5 6,-37.807726,144.97303200000002,-37.808;144.973,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+At The Intersection Of Victoria Street And Doncaster Road Doncaster - Lane 1 2 3,-37.78663,145.14379399999999,-37.787;145.144,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Warrigal Road And Batesford Road Chadstone - Lane 1 2 3,-37.875223,145.091638,-37.875;145.092,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Warrigal Road And Batesford Road Malvern East - Wet Film,-37.875768,145.091421,-37.876;145.091,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Warrigal Road And Centre Dandenong Road Cheltenham - Lanes 1 2 3 4,-37.967304999999996,145.074369,-37.967;145.074,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Warrigal Road And Highbury Road Burwood - Wet Film,-37.85309,145.09526,-37.853;145.095,-37.9;145.1,Wet film,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Warrigal Road And North Road Oakleigh - Lane 1 2 3,-37.909175,145.085247,-37.909;145.085,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Warrigal Road And North Road Oakleigh - Lane 4 5,-37.909143,145.085016,-37.909;145.085,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Waverley Road And Blackburn Road Glen Waverley - Wet Film,-37.886848,145.146093,-37.887;145.146,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Waverley Road And Blackburn Road Glen Waverley - Wet Film,-37.886848,145.146093,-37.887;145.146,-37.9;145.1,Wet film,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Waverley Road And Blackburn Road Mount Waverley - Lane 1 2 3,-37.886598,145.145183,-37.887;145.145,-37.9;145.1,Intersection,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Wellington Road And Blackburn Road Clayton - Wet Film,-37.916187,145.139696,-37.916;145.140,-37.9;145.1,Wet film,3125.0,BENNETTSWOOD,R1
+At The Intersection Of Wells Road And Nurten Parade Aspendale Gardens - Lane 1 2 3 4,-38.022428000000005,145.12438500000002,-38.022;145.124,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Wells Road And Palm Grove Boulevard Aspendale Gardens - Lane 1 2 3 4,-38.018896999999996,145.118212,-38.019;145.118,-38.0;145.1,Intersection,3172.0,DINGLEY VILLAGE,R1
+At The Intersection Of Whitehorse Road And Burke Road Balwyn - Lane 1,-37.810483000000005,145.061081,-37.810;145.061,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Whitehorse Road And Elgar Road Box Hill - Lane 1 2 3,-37.817073,145.115461,-37.817;145.115,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Whitehorse Road And Surrey Road Blackburn - Lane 1 2 3 4,-37.817605,145.155826,-37.818;145.156,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+At The Intersection Of Williamsons Road And Doncaster Road Doncaster - Lane 1 2 3,-37.786902000000005,145.125013,-37.787;145.125,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Williamsons Road And Doncaster Road Doncaster - Lane 4 5 6,-37.787007,145.124785,-37.787;145.125,-37.8;145.1,Intersection,3102.0,KEW EAST,R1
+At The Intersection Of Williamstown Road And Somerville Road Yarraville - Lane 1 2,-37.812603,144.883603,-37.813;144.884,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+At The Intersection Of York Street And Macarthur Street Sale - Lane 1 2 3,-38.104882,147.068203,-38.105;147.068,-38.1;147.1,Intersection,3852.0,EAST SALE,R3
+Burnley Tunnel Cremorne Approximately 2140 Metres After The Tunnel Entrance - Lane 1,-37.824861,144.990061,-37.825;144.990,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+Burnley Tunnel Cremorne Approximately 2140 Metres After The Tunnel Entrance - Lane 2,-37.824859000000004,144.99005400000001,-37.825;144.990,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+Burnley Tunnel Cremorne Approximately 2140 Metres After The Tunnel Entrance - Lane 3,-37.824852,144.990058,-37.825;144.990,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+Burnley Tunnel Southbank Approximately 430 Metres After The Tunnel Entrance - Lane 1,-37.825025,144.97053400000001,-37.825;144.971,-37.8;145.0,Freeway,3000.0,MELBOURNE,R1
+Burnley Tunnel Southbank Approximately 430 Metres After The Tunnel Entrance - Lane 2,-37.825044,144.970541,-37.825;144.971,-37.8;145.0,Freeway,3000.0,MELBOURNE,R1
+Burnley Tunnel Southbank Approximately 430 Metres After The Tunnel Entrance - Lane 3,-37.825068,144.970551,-37.825;144.971,-37.8;145.0,Freeway,3000.0,MELBOURNE,R1
+Domain Tunnel Melbourne Approximately 725 Metres After The Tunnel Entrance - Lane 1,-37.825114,144.976095,-37.825;144.976,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+Domain Tunnel Melbourne Approximately 725 Metres After The Tunnel Entrance - Lane 2,-37.825195,144.976155,-37.825;144.976,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+Domain Tunnel Melbourne Approximately 725 Metres After The Tunnel Entrance - Lane 3,-37.825233000000004,144.97612800000002,-37.825;144.976,-37.8;145.0,Intersection,3000.0,MELBOURNE,R1
+Domain Tunnel Southbank Approximately 1195 Metres After The Tunnel Entrance - Lane 1,-37.8251527,144.9709481,-37.825;144.971,-37.8;145.0,Freeway,3000.0,MELBOURNE,R1
+Domain Tunnel Southbank Approximately 1195 Metres After The Tunnel Entrance - Lane 2,-37.825095000000005,144.970922,-37.825;144.971,-37.8;145.0,Freeway,3000.0,MELBOURNE,R1
+Domain Tunnel Southbank Approximately 1195 Metres After The Tunnel Entrance - Lane 3,-37.825053999999994,144.97088,-37.825;144.971,-37.8;145.0,Freeway,3000.0,MELBOURNE,R1
+Eastbound Midland Highway At Bagshot Level Crossing 40 Metres West Of Peatlings Road Bagshot - Lane 1,-36.65396,144.404472,-36.654;144.404,-36.7;144.4,Intersection,3551.0,BAGSHOT,R3
+Eastlink Keysborough Northbound Dandenong Bypass Bridge - Lane 1,-38.001391999999996,145.191195,-38.001;145.191,-38.0;145.2,Freeway,3164.0,DANDENONG SOUTH,R1
+Eastlink Keysborough Northbound Dandenong Bypass Bridge - Lane 2,-38.001399,145.191238,-38.001;145.191,-38.0;145.2,Freeway,3164.0,DANDENONG SOUTH,R1
+Eastlink Keysborough Northbound Dandenong Bypass Bridge - Lane 3,-38.001404,145.191277,-38.001;145.191,-38.0;145.2,Freeway,3164.0,DANDENONG SOUTH,R1
+Eastlink Keysborough Southbound Dandenong Bypass Bridge - Lane 1,-38.001086,145.191651,-38.001;145.192,-38.0;145.2,Freeway,3164.0,DANDENONG SOUTH,R1
+Eastlink Keysborough Southbound Dandenong Bypass Bridge - Lane 2,-38.001081,145.191614,-38.001;145.192,-38.0;145.2,Freeway,3164.0,DANDENONG SOUTH,R1
+Eastlink Keysborough Southbound Dandenong Bypass Bridge - Lane 3,-38.001079,145.191567,-38.001;145.192,-38.0;145.2,Freeway,3164.0,DANDENONG SOUTH,R1
+Eastlink Rowville Northbound Wellington Road Bridge - Lane 1,-37.925627,145.21287900000002,-37.926;145.213,-37.9;145.2,Freeway,3150.0,BRANDON PARK,R1
+Eastlink Rowville Northbound Wellington Road Bridge - Lane 2,-37.925634,145.212918,-37.926;145.213,-37.9;145.2,Freeway,3150.0,BRANDON PARK,R1
+Eastlink Rowville Northbound Wellington Road Bridge - Lane 3,-37.925639000000004,145.212959,-37.926;145.213,-37.9;145.2,Freeway,3150.0,BRANDON PARK,R1
+Eastlink Rowville Southbound Wellington Road Bridge - Lane 1,-37.925262,145.213427,-37.925;145.213,-37.9;145.2,Freeway,3150.0,BRANDON PARK,R1
+Eastlink Rowville Southbound Wellington Road Bridge - Lane 2,-37.925259000000004,145.21338300000002,-37.925;145.213,-37.9;145.2,Freeway,3150.0,BRANDON PARK,R1
+Eastlink Rowville Southbound Wellington Road Bridge - Lane 3,-37.925253999999995,145.21334199999998,-37.925;145.213,-37.9;145.2,Freeway,3150.0,BRANDON PARK,R1
+Hume Freeway Beveridge Northbound Mount Fraser - Lane 1,-37.460324,144.972162,-37.460;144.972,-37.5;145.0,Point to point,3753.0,BEVERIDGE,R3
+Hume Freeway Beveridge Northbound Mount Fraser - Lane 2,-37.460341,144.972198,-37.460;144.972,-37.5;145.0,Point to point,3753.0,BEVERIDGE,R3
+Hume Freeway Beveridge Southbound Mount Fraser - Lane 1,-37.460652,144.972407,-37.461;144.972,-37.5;145.0,Intersection,3753.0,BEVERIDGE,R3
+Hume Freeway Beveridge Southbound Mount Fraser - Lane 2,-37.460638,144.972358,-37.461;144.972,-37.5;145.0,Intersection,3753.0,BEVERIDGE,R3
+Hume Freeway Broadford Northbound 101 Metres South Of Broadford-Flowerdale Road - Lane 1,-37.207587,145.06850500000002,-37.208;145.069,-37.2;145.1,Point to point,3658.0,BROADFORD,R3
+Hume Freeway Broadford Northbound 101 Metres South Of Broadford-Flowerdale Road - Lane 2,-37.207611,145.068566,-37.208;145.069,-37.2;145.1,Point to point,3658.0,BROADFORD,R3
+Hume Freeway Broadford Southbound 109 Metres South Of Broadford-Flowerdale Road - Lane 1,-37.207685999999995,145.068907,-37.208;145.069,-37.2;145.1,Point to point,3658.0,BROADFORD,R3
+Hume Freeway Broadford Southbound 109 Metres South Of Broadford-Flowerdale Road - Lane 2,-37.207677000000004,145.068875,-37.208;145.069,-37.2;145.1,Point to point,3658.0,BROADFORD,R3
+Hume Freeway Craigieburn Northbound 66 Metres South Of Amaroo Road - Lane 1,-37.584378,144.944099,-37.584;144.944,-37.6;144.9,Point to point,3059.0,GREENVALE,R1
+Hume Freeway Craigieburn Northbound 66 Metres South Of Amaroo Road - Lane 2,-37.584365000000005,144.944145,-37.584;144.944,-37.6;144.9,Point to point,3059.0,GREENVALE,R1
+Hume Freeway Craigieburn Southbound 65 Metres South Of Amaroo Road - Lane 1,-37.584325,144.944374,-37.584;144.944,-37.6;144.9,Point to point,3059.0,GREENVALE,R1
+Hume Freeway Craigieburn Southbound 65 Metres South Of Amaroo Road - Lane 2,-37.584337,144.944334,-37.584;144.944,-37.6;144.9,Point to point,3059.0,GREENVALE,R1
+Hume Freeway Epping Northbound 65 Metres South Of O'Herns Road - Lane 1,-37.634547999999995,144.993244,-37.635;144.993,-37.6;145.0,Point to point,3076.0,EPPING,R1
+Hume Freeway Epping Northbound 65 Metres South Of O'Herns Road - Lane 2,-37.634558,144.993287,-37.635;144.993,-37.6;145.0,Point to point,3076.0,EPPING,R1
+Hume Freeway Epping Southbound 60 Metres South Of O'Herns Road - Lane 1,-37.634591,144.993516,-37.635;144.994,-37.6;145.0,Intersection,3076.0,EPPING,R1
+Hume Freeway Epping Southbound 60 Metres South Of O'Herns Road - Lane 2,-37.634588,144.993469,-37.635;144.993,-37.6;145.0,Point to point,3076.0,EPPING,R1
+Hume Freeway Wallan East Northbound Adjacent To Station Street - Lane 1,-37.410334999999996,145.00555500000002,-37.410;145.006,-37.4;145.0,Point to point,3756.0,CHINTIN,R3
+Hume Freeway Wallan East Northbound Adjacent To Station Street - Lane 2,-37.410369,145.005577,-37.410;145.006,-37.4;145.0,Point to point,3756.0,CHINTIN,R3
+Hume Freeway Wallan East Southbound Adjacent To Station Street - Lane 1,-37.410689,145.005604,-37.411;145.006,-37.4;145.0,Intersection,3756.0,CHINTIN,R3
+Hume Freeway Wallan East Southbound Adjacent To Station Street - Lane 2,-37.410649,145.005579,-37.411;145.006,-37.4;145.0,Intersection,3756.0,CHINTIN,R3
+Melba Tunnel Donvale Approx 500m Prior to Tunnel Exit - Lane 1,-37.803764,145.20080900000002,-37.804;145.201,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+Melba Tunnel Donvale Approx 500m Prior to Tunnel Exit - Lane 2,-37.803758,145.200843,-37.804;145.201,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+Melba Tunnel Donvale Approx 500m Prior to Tunnel Exit - Lane 3,-37.803737,145.200836,-37.804;145.201,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+Monash Freeway And Approximately 470 Metres South Of High Street Glen Iris - Lane 1 2,-37.862681,145.059992,-37.863;145.060,-37.9;145.1,Freeway,3125.0,BENNETTSWOOD,R1
+Monash Freeway And Approximately 470 Metres South Of High Street Glen Iris - Lane 3 4,-37.862668,145.06006599999998,-37.863;145.060,-37.9;145.1,Freeway,3125.0,BENNETTSWOOD,R1
+Monash Freeway Approximately 290 Metres South Of High Street Glen Iris - Lane 1 2,-37.863972,145.060644,-37.864;145.061,-37.9;145.1,Freeway,3125.0,BENNETTSWOOD,R1
+Monash Freeway Approximately 290 Metres South Of High Street Glen Iris - Lane 3 4,-37.863987,145.060567,-37.864;145.061,-37.9;145.1,Freeway,3125.0,BENNETTSWOOD,R1
+Mullum Mullum Tunnel Donvale Approx 600m Prior to Tunnel Exit - Lane 1,-37.805038,145.206985,-37.805;145.207,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+Mullum Mullum Tunnel Donvale Approx 600m Prior to Tunnel Exit - Lane 2,-37.805052,145.206974,-37.805;145.207,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+Mullum Mullum Tunnel Donvale Approx 600m Prior to Tunnel Exit - Lane 3,-37.805068,145.206961,-37.805;145.207,-37.8;145.2,Intersection,3109.0,DONCASTER EAST,R1
+Peninsula Link Freeway Frankston Northbound Skye Road Bridge - Lane 1,-38.141242999999996,145.17293999999998,-38.141;145.173,-38.1;145.2,Intersection,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Frankston Northbound Skye Road Bridge - Lane 1,-38.141242999999996,145.17293999999998,-38.141;145.173,-38.1;145.2,Point to point,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Frankston Northbound Skye Road Bridge - Lane 2,-38.141251000000004,145.172981,-38.141;145.173,-38.1;145.2,Intersection,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Frankston Northbound Skye Road Bridge - Lane 2,-38.141251000000004,145.172981,-38.141;145.173,-38.1;145.2,Point to point,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Frankston Southbound Skye Road Bridge - Lane 1,-38.141484999999996,145.173252,-38.141;145.173,-38.1;145.2,Intersection,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Frankston Southbound Skye Road Bridge - Lane 1,-38.141484999999996,145.173252,-38.141;145.173,-38.1;145.2,Point to point,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Frankston Southbound Skye Road Bridge - Lane 2,-38.141477,145.173209,-38.141;145.173,-38.1;145.2,Intersection,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Frankston Southbound Skye Road Bridge - Lane 2,-38.141477,145.173209,-38.141;145.173,-38.1;145.2,Point to point,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Moorooduc Northbound Eramosa Road West Bridge - Lane 1,-38.21667,145.129026,-38.217;145.129,-38.2;145.1,Point to point,3199.0,FRANKSTON,R1
+Peninsula Link Freeway Moorooduc Northbound Eramosa Road West Bridge - Lane 1,-38.21667,145.129026,-38.217;145.129,-38.2;145.1,Intersection,3199.0,FRANKSTON,R1
+Peninsula Link Freeway Moorooduc Northbound Eramosa Road West Bridge - Lane 2,-38.216683,145.129071,-38.217;145.129,-38.2;145.1,Point to point,3199.0,FRANKSTON,R1
+Peninsula Link Freeway Moorooduc Northbound Eramosa Road West Bridge - Lane 2,-38.216683,145.129071,-38.217;145.129,-38.2;145.1,Intersection,3199.0,FRANKSTON,R1
+Peninsula Link Freeway Moorooduc Northbound Loders Road Bridge - Lane 1,-38.262955,145.106767,-38.263;145.107,-38.3;145.1,Intersection,3915.0,HASTINGS,R3
+Peninsula Link Freeway Moorooduc Northbound Loders Road Bridge - Lane 1,-38.262955,145.106767,-38.263;145.107,-38.3;145.1,Point to point,3915.0,HASTINGS,R3
+Peninsula Link Freeway Moorooduc Northbound Loders Road Bridge - Lane 2,-38.262976,145.106789,-38.263;145.107,-38.3;145.1,Intersection,3915.0,HASTINGS,R3
+Peninsula Link Freeway Moorooduc Northbound Loders Road Bridge - Lane 2,-38.262976,145.106789,-38.263;145.107,-38.3;145.1,Point to point,3915.0,HASTINGS,R3
+Peninsula Link Freeway Moorooduc Southbound Eramosa Road West Bridge - Lane 1,-38.216569,145.129307,-38.217;145.129,-38.2;145.1,Point to point,3199.0,FRANKSTON,R1
+Peninsula Link Freeway Moorooduc Southbound Eramosa Road West Bridge - Lane 1,-38.216569,145.129307,-38.217;145.129,-38.2;145.1,Intersection,3199.0,FRANKSTON,R1
+Peninsula Link Freeway Moorooduc Southbound Eramosa Road West Bridge - Lane 2,-38.216561,145.12926399999998,-38.217;145.129,-38.2;145.1,Point to point,3199.0,FRANKSTON,R1
+Peninsula Link Freeway Moorooduc Southbound Eramosa Road West Bridge - Lane 2,-38.216561,145.12926399999998,-38.217;145.129,-38.2;145.1,Intersection,3199.0,FRANKSTON,R1
+Peninsula Link Freeway Moorooduc Southbound Mornington-Tyabb Road Bridge - Lane 1,-38.252146,145.117947,-38.252;145.118,-38.3;145.1,Intersection,3915.0,HASTINGS,R3
+Peninsula Link Freeway Moorooduc Southbound Mornington-Tyabb Road Bridge - Lane 1,-38.252146,145.117947,-38.252;145.118,-38.3;145.1,Point to point,3915.0,HASTINGS,R3
+Peninsula Link Freeway Moorooduc Southbound Mornington-Tyabb Road Bridge - Lane 2,-38.252134000000005,145.11791100000002,-38.252;145.118,-38.3;145.1,Intersection,3915.0,HASTINGS,R3
+Peninsula Link Freeway Moorooduc Southbound Mornington-Tyabb Road Bridge - Lane 2,-38.252134000000005,145.11791100000002,-38.252;145.118,-38.3;145.1,Point to point,3915.0,HASTINGS,R3
+Peninsula Link Freeway Northbound Ballarto Road Bridge Frankston North,-38.113476,145.164321,-38.113;145.164,-38.1;145.2,Intersection,3200.0,FRANKSTON NORTH,R1
+Peninsula Link Freeway Southbound Ballarto Road Bridge Carrum Downs,-38.113634000000005,145.16475,-38.114;145.165,-38.1;145.2,Intersection,3200.0,FRANKSTON NORTH,R1
+Princes Freeway Hoppers Crossing Forsyth Road Bridge Melbourne Bound - Lane 1 2 3 4,-37.873232,144.736855,-37.873;144.737,-37.9;144.7,Intersection,3027.0,WILLIAMS LANDING,R1
+Princes Freeway Lara Avalon Road Bridge Geelong Bound - Lane 1 2 3,-38.030586,144.430816,-38.031;144.431,-38.0;144.4,Freeway,3212.0,AVALON,R2
+Princes Freeway Lara Avalon Road Bridge Melbourne Bound - Lane 1 2 3,-38.030427,144.430374,-38.030;144.430,-38.0;144.4,Freeway,3212.0,AVALON,R2
+Princes Freeway Little River Point Wilson Road Bridge Melbourne Bound - Lane 1 2 3,-37.981751,144.533424,-37.982;144.533,-38.0;144.5,Freeway,3226.0,OCEAN GROVE,R2
+Princes Freeway Point Cook Forsyth Road Bridge Geelong Bound - Lane 1 2 3 4,-37.873629,144.736802,-37.874;144.737,-37.9;144.7,Intersection,3027.0,WILLIAMS LANDING,R1
+Princes Freeway Point Wilson Point Wilson Road Bridge Geelong Bound - Lane 1 2 3,-37.982032000000004,144.533598,-37.982;144.534,-38.0;144.5,Freeway,3226.0,OCEAN GROVE,R2
+West Gate Freeway Altona North Westbound Approximately 405 Metres East Of Millers Road  - Lane 1 2 3 4,-37.824777000000005,144.853502,-37.825;144.854,-37.8;144.9,Intersection,3003.0,WEST MELBOURNE,R1
+West Gate Freeway Brooklyn Eastbound Grieve Parade Bridge - Lane 1 2 3 4,-37.825542,144.829479,-37.826;144.829,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Westbound Midland Highway At Bagshot Level Crossing 40 Metres West Of Peatlings Road Bagshot - Lane 1,-36.654012,144.404703,-36.654;144.405,-36.7;144.4,Intersection,3551.0,BAGSHOT,R3
+Western Ring Road Approximately 1600 Metres West Of Sydney Road Broadmeadows - Lane 1,-37.692749,144.94059,-37.693;144.941,-37.7;144.9,Intersection,3033.0,KEILOR EAST,R1
+Western Ring Road Approximately 1600 Metres West Of Sydney Road Broadmeadows - Lane 2,-37.69278,144.940594,-37.693;144.941,-37.7;144.9,Intersection,3033.0,KEILOR EAST,R1
+Western Ring Road Approximately 1600 Metres West Of Sydney Road Broadmeadows - Lane 3,-37.692811,144.9406,-37.693;144.941,-37.7;144.9,Intersection,3033.0,KEILOR EAST,R1
+Western Ring Road Approximately 1600 Metres West Of Sydney Road Broadmeadows - Lane 4,-37.692842999999996,144.940606,-37.693;144.941,-37.7;144.9,Intersection,3033.0,KEILOR EAST,R1
+Western Ring Road Approximately 560 Metres North Of Ballarat Road Ardeer - Lane 1,-37.767542,144.800484,-37.768;144.800,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Approximately 560 Metres North Of Ballarat Road Ardeer - Lane 2,-37.767506,144.800474,-37.768;144.800,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Approximately 560 Metres North Of Ballarat Road Ardeer - Lane 3,-37.767476,144.800467,-37.767;144.800,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Approximately 560 Metres North Of Ballarat Road Ardeer - Lane 4,-37.767449,144.800457,-37.767;144.800,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Approximately 600 Metres West Of Sydney Road Glenroy - Lane 1,-37.692238,144.95174,-37.692;144.952,-37.7;145.0,Freeway,3058.0,BATMAN,R1
+Western Ring Road Approximately 600 Metres West Of Sydney Road Glenroy - Lane 2,-37.692207,144.951742,-37.692;144.952,-37.7;145.0,Freeway,3058.0,BATMAN,R1
+Western Ring Road Approximately 600 Metres West Of Sydney Road Glenroy - Lane 3,-37.692173,144.95173400000002,-37.692;144.952,-37.7;145.0,Freeway,3058.0,BATMAN,R1
+Western Ring Road Approximately 650 Metres South Of Ballarat Road Ardeer - Lane 1,-37.776035,144.793968,-37.776;144.794,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Approximately 650 Metres South Of Ballarat Road Ardeer - Lane 2,-37.776044,144.794006,-37.776;144.794,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Approximately 650 Metres South Of Ballarat Road Ardeer - Lane 3,-37.77604,144.794056,-37.776;144.794,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Approximately 650 Metres South Of Ballarat Road Ardeer - Lane 4,-37.776038,144.794093,-37.776;144.794,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Laverton North Northbound Boundary Road South Side Gantry - Lane 1,-37.819348,144.809287,-37.819;144.809,-37.8;144.8,Freeway,3020.0,ALBION,R1
+Western Ring Road Laverton North Northbound Boundary Road South Side Gantry - Lane 2,-37.819331,144.809322,-37.819;144.809,-37.8;144.8,Freeway,3020.0,ALBION,R1
+Western Ring Road Laverton North Northbound Boundary Road South Side Gantry - Lane 3,-37.819323,144.809363,-37.819;144.809,-37.8;144.8,Freeway,3020.0,ALBION,R1
+Western Ring Road Sunshine West Southbound Boundary Road North Side Gantry - Lane 1,-37.810968,144.80811,-37.811;144.808,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Sunshine West Southbound Boundary Road North Side Gantry - Lane 2,-37.810970000000005,144.808069,-37.811;144.808,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Sunshine West Southbound Boundary Road North Side Gantry - Lane 3,-37.810970000000005,144.808031,-37.811;144.808,-37.8;144.8,Intersection,3020.0,ALBION,R1
+Western Ring Road Sunshine West Southbound Boundary Road North Side Gantry - Lane 4,-37.810973,144.807995,-37.811;144.808,-37.8;144.8,Intersection,3020.0,ALBION,R1

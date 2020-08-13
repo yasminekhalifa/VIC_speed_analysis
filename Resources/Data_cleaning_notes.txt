@@ -1,0 +1,13 @@
+Cleaning crash statistics file using excel:
+1. Removed unnecessary columns to make dataset smaller.
+2. Removed km/hr after all numbers in speed zone column using find and replace in excel. Therefore, the data was changed from string to numeric format.
+3. Sorted the dataset alphabetically  for local government agency (LGA) using excel.
+
+
+Cleaning lge files:
+1. Deleted all the columns that did not have data about length of road or expediture associated with the roads.
+2. Deleted a few rows from top that had no data. Deleted 3 rows after Yarriambiack lge to remove some calculations present in dataset. The calculations were mostly the sum of each columns.  
+3. Removed parenthesis and letters with it from lge column so we can join this dataset with crash statistics dataset.
+4. This file is sorted alphabetically. So, no need to sort it.
+5. Renames columns to avoid duplicate column names.
+
